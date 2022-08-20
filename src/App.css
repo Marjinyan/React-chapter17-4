@@ -1,0 +1,38 @@
+body {
+  background: #763e7f;
+}
+
+.highlight {
+  background: #fff;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
+input {
+  display: block;
+  padding: 5px;
+  width: 800px;
+  margin: 30px auto;
+  outline: none;
+}
+
+.list {
+  display: flex;
+  ;
+  flex-direction: column;
+  align-items: center;
+  width: 450px;
+  margin: auto;
+  padding: 4px;
+}
+
+.item {
+  padding: 10px;
+  background: #ee8eee;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
